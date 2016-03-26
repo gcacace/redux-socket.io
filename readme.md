@@ -11,8 +11,6 @@ Messages are listened from the server by dispatching actions to Redux store, whe
 
 > **Note:** This middleware must be instructed with the list of events coming from the server.
 
-Socket.io client->server messages should should be sent by dispatching actions to redux's store, where the action is the payload.  Socket.io server->client messages should be dispatched as actions when received.
-
 How to use
 -------------
 ### Installation
