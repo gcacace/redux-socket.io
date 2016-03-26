@@ -2,7 +2,7 @@
 An enhanced version of the opinionated connector between socket.io and Redux `redux-socket.io`.
 
 [![Build Status](https://travis-ci.org/gcacace/redux-socket.io.svg)](https://travis-ci.org/gcacace/redux-socket.io)
-[![devDependency Status](https://david-dm.org/socketio/gcacace/redux-socket.io.svg)](https://david-dm.org/gcacace/redux-socket.io#info=devDependencies)
+[![devDependency Status](https://david-dm.org/gcacace/redux-socket.io/dev-status.svg)](https://david-dm.org/gcacace/redux-socket.io#info=devDependencies)
 ![NPM version](https://badge.fury.io/js/gcacace-redux-socket.io.svg)
 ![Downloads](https://img.shields.io/npm/dm/gcacace-redux-socket.io.svg?style=flat)
 
