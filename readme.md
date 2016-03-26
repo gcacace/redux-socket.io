@@ -1,5 +1,5 @@
-# redux-socket.io
-An enhanced version of the opinionated connector between socket.io and Redux.
+# gcacace-redux-socket.io
+An enhanced version of the opinionated connector between socket.io and Redux `redux-socket.io`.
 
 Philosophy
 -------------
