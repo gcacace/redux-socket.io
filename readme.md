@@ -15,7 +15,7 @@ How to use
 -------------
 ### Installation
 ```
-npm install --save git+https://git@github.com/gcacace/redux-socket.io#1.0.0
+npm install --save gcacace-redux-socket.io
 ```
 
 ### Example usage
